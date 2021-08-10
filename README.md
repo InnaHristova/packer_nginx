@@ -1,5 +1,5 @@
-# *Create AWS AMI with packer*
-
+# Create AMI with packer
+In this repo you will find packer template. With its help you will be able to build an image. 
 
 ## AMI details:
 * OS: Ubuntu
