@@ -3,7 +3,7 @@ In this repo you will find packer template to build an AWS image witn Nginx inst
 
 ## AMI details:
 * OS: Ubuntu-xenial-16.04-amd64
-* Nginx installed as a service which is enaled
+* Nginx installed as a service which is enabled
 
 
 ## Instructions:
