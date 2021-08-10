@@ -1,4 +1,4 @@
-# *Create AMI with packer*
+# *Create AWS AMI with packer*
 
 
 ## AMI details:
