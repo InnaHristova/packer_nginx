@@ -1,8 +1,8 @@
 # Create AMI with packer
-In this repo you will find packer template. With its help you will be able to build an image. 
+In this repo you will find packer template to build an AWS image witn Nginx installed. 
 
 ## AMI details:
-* OS: Ubuntu
+* OS: Ubuntu-xenial-16.04-amd64
 * Nginx installed as a service which is enaled
 
 
