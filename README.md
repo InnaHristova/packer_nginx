@@ -15,6 +15,7 @@ In this repo you will find packer template to build an AWS image witn Nginx inst
   ```export AWS_SECRET_ACCESS_KEY=YOUR_SECRET_KEY```  
   ```export AWS_SESSION_TOKEN=YOUR_ACCESS_KEY```
 * Initialize packer configuration: ```packer init .```
-* Build packer image: ```packer build nginx.pkr.hcl```
+* Build packer image: ```packer build -var="ami_region=YOUR VALUE" nginx.pkr.hcl```  
+(If you do not choose region, the default will be eu-central-1)  
 
 *For more information, you may visit https://learn.hashicorp.com/packer*
