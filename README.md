@@ -7,10 +7,8 @@ In this repo you will find packer template to build an AWS image witn Nginx inst
 
 
 ## Instructions:
-* Install [Packer](https://learn.hashicorp.com/tutorials/packer/get-started-install-cli) 
-* Create new directory: ```mkdir packer_nginx```
-* Navigate to it: ```cd packer_nginx```
-* Clone the repo here: ```git clone https://github.com/InnaHristova/packer_nginx.git```
+* Install [Packer](https://learn.hashicorp.com/tutorials/packer/get-started-install-cli)
+* Clone the repo: ```git clone https://github.com/InnaHristova/packer_nginx.git```
 * Navigate to packer_nginx: ```cd packer_nginx```
 * Authenticate to AWS:  
   ```export AWS_ACCESS_KEY_ID=YOUR_ACCESS_KEY```  
